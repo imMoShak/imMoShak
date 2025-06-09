@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Docker , linux 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me moshakouri@outlook.com
+- 📫 How to reach me moshakouri(a)outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: my friends call me GOD level of khowledge
 
